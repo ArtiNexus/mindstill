@@ -1,5 +1,9 @@
 # mindstill · 思想蒸馏工具集
 
+<p align="center">
+  <img src="mindstill.png" alt="mindstill" width="120">
+</p>
+
 > 从你的话语中蒸馏精华。
 > 让你的思想长成一棵树。
 

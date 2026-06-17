@@ -1,5 +1,9 @@
 # mindstill
 
+<p align="center">
+  <img src="mindstill.png" alt="mindstill" width="120">
+</p>
+
 > Distill the essence from your spoken words.
 > Build a living tree of your thinking.
 
